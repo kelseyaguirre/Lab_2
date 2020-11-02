@@ -1,0 +1,12 @@
+Package: Lab2
+Type: Package
+Title: This Package Will Produce Boxplots or a Table with Statistics
+Version: 0.1.0
+Author: Kelsey Aguirre
+Maintainer: The package maintainer <kelsey@somewhere.net>
+Description: "fun1"" in this package will produce a varity of boxplots depending on which of the three variables I've prepared to work in this function.
+    "fun2"" is used in "fun3". "fun3 will intake a string of either "mean", "median", or "mode" and output that calculation for Average.Medicare.Payments, and then produce a table.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
